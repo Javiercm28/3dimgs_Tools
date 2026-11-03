@@ -18,6 +18,6 @@ print("1.URL to SVG QR")
 print("2.IMG to SVG")
 fun=input("Select num (1,2,3,...): ")
 
-if fun == 1:
+if fun == "1":
     generar_qr_svg()
         
